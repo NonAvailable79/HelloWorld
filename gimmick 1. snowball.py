@@ -1,3 +1,4 @@
+#Hello world
 print('Snowball numbers! \n')
 print('Would you like to have a specific number or a range of numbers?')
 print('You can also get information by typing info')
@@ -72,5 +73,6 @@ while ended == False:
 
     else:
         print('Error. Try again.')
+
 
 print('we are done here')
